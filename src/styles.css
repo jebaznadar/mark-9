@@ -1,0 +1,24 @@
+
+
+.app {
+  /* font-family: 'EB Garamond', serif; */
+font-family: 'Lobster', cursive;
+font-family: 'Montserrat', sans-serif;
+text-align: center;
+}
+button {
+  cursor: "pointer",
+  background: "#E5E7EB",
+  borderRadius: "0.5rem",
+  padding: "0.5rem  1rem",
+  border: "1px solid black",
+  margin: "1rem 0.3rem"
+}
+li{
+  listStyle: "none",
+  padding: "1rem",
+  border: "1px solid #D1D5DB",
+  width: "70%",
+  margin: "1rem 0rem",
+  borderRadius: "0.5rem"
+}
